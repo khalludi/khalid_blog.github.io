@@ -1,6 +1,6 @@
 # Site
 title:              Khalludi
-bio:                'Jekyll version of the Massively theme by HTML5UP'
+bio:                "A college student with an interest in machine learning."
 description:        "Khalid's Personal Site and Blog"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -41,9 +41,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
+location:           Fairfax, VA
 phone:              310-318-5555
-email:              info@default.com
+email:              khalludi123@gmail.com
 
 # Gems
 gems:
