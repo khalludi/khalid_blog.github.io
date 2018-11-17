@@ -36,13 +36,13 @@ disqus_shortname:   default
 # Social
 analytics-id:       "default"
 twitter:            default
-facebook:           default
+facebook:           profile.php?id=100005464542684
 instagram:          default
-github:             default
+github:             khalludi
 
 # personal
 location:           Fairfax, VA
-phone:              310-318-5555
+phone:              703-280-2545
 email:              khalludi123@gmail.com
 
 # Gems
